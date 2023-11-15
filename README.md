@@ -24,7 +24,7 @@ Understanding these concepts will help you navigate and contribute to the codeba
 1. **Search for a Book:**
 
    - Enter the book title in the search bar.
-   - 
+   
 2. **View Results:**
 
    - The application will display a list of books matching your search.
