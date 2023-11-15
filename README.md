@@ -24,11 +24,10 @@ Understanding these concepts will help you navigate and contribute to the codeba
 1. **Search for a Book:**
 
    - Enter the book title in the search bar.
-   - Click the "Search" button.
-
+   - 
 2. **View Results:**
 
-   - The application will display a list of books matching your search criteria.
+   - The application will display a list of books matching your search.
 
 3. **Book Information:**
    - Click on a book to view detailed information, including title, author, category, and price (if available).
